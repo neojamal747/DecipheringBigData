@@ -1,0 +1,393 @@
+Line_Number,Text
+1,".site-header .navbar-light .no-logo .navbar-brand--sitename {border:0px!important;margin-left:0px} .site-header .navbar-light .no-logo .nada-site-title {font-size:18px;}"
+2,Microdata Library
+3,Data Catalog
+4,Collections
+5,Citations
+6,Terms of use
+7,About
+8,Login
+9,Login
+10,"Home /    Central Data Catalog /    MICS /    ZWE_2019_MICS_V01_M"
+11,".metadata-sidebar-container .nav .active{ background:#e9ecef;  } .study-metadata-page .page-header .nav-tabs .active a { background: white; font-weight: bold; border-top: 2px solid #0071bc; border-left:1px solid gainsboro; border-right:1px solid gainsboro; }  .study-info-content { font-size: 14px; }  .study-subtitle{ font-size:.7em; margin-bottom:10px; }  .badge-outline{ background:transparent; color:#03a9f4; border:1px solid #9e9e9e; } .study-header-right-bar span{ display:block; margin-bottom:15px; } .study-header-right-bar{ font-size:14px; color:gray; } .get-microdata-btn{ font-size:14px; }  .link-col .badge{ font-size:14px; font-weight:normal; background:transparent; border:1px solid #9E9E9E; color:#03a9f4; }  .link-col .badge:hover{ background:#03a9f4; color:#ffffff; }  .study-header-right-bar .stat{ margin-bottom:10px; font-size:small; }  .study-header-right-bar .stat .stat-label{ font-weight:bold; text-transform:uppercase; }  .field-metadata__table_description__ref_country .field-value, .field-metadata__study_desc__study_info__nation .field-value{ max-height:350px; overflow:auto; } .field-metadata__table_description__ref_country .field-value ::-webkit-scrollbar, .field-metadata__study_desc__study_info__nation .field-value ::-webkit-scrollbar { -webkit-appearance: none; width: 7px; }  .field-metadata__table_description__ref_country .field-value ::-webkit-scrollbar-thumb, .field-metadata__study_desc__study_info__nation .field-value ::-webkit-scrollbar-thumb { border-radius: 4px; background-color: rgba(0, 0, 0, .5); box-shadow: 0 0 1px rgba(255, 255, 255, .5); }"
+12,"Multiple Indicator Cluster Survey 2019, Round 6"
+13,"Zimbabwe, 2019"
+14,Get Microdata
+15,Reference ID
+16,ZWE_2019_MICS_v01_M
+17,Producer(s)
+18,Bureau of Statistics
+19,Collection(s)
+20,"UNICEF Multiple Indicator Cluster Surveys (MICS)     Fragility, Conflict and Violence"
+21,Metadata
+22,"metadata    DDI/XML    JSON   end-metadata"
+23,Created on
+24,"Oct 27, 2021"
+25,Last modified
+26,"Feb 03, 2022"
+27,Page views
+28,61412
+29,Study Description
+30,Data Description
+31,Documentation
+32,Get Microdata
+33,".data-file-bg1 tr,.data-file-bg1 td {vertical-align: top;} .data-file-bg1 .col-1{width:100px;} .data-file-bg1 {margin-bottom:20px;} .var-info-panel{display:none;} .table-variable-list td{ cursor:pointer; }  .nada-list-group-item { position: relative; display: block; padding: 10px 15px; margin-bottom: -1px; background-color: #fff; border: 1px solid #ddd; border-left:0px; border-right:0px; font-size: small; border-bottom: 1px solid gainsboro; word-wrap: break-word; padding: 5px; padding-right: 10px;  }  .nada-list-group-title{ font-weight:bold; border-top:0px; }  .variable-groups-sidebar .nada-list-vgroup { padding-inline-start: 0px; font-size:small; list-style-type: none; }  .nada-list-vgroup { list-style-type: none; }  .nada-list-subgroup{ padding-left:10px; }  .table-variable-list .var-breadcrumb{ display:none; }  .nada-list-subgroup .nada-list-vgroup-item { padding-left: 24px; position: relative; list-style:none; }  .nada-list-subgroup .nada-list-vgroup-item:before { position: absolute; font-family: 'FontAwesome'; top: 0; left: 10px; content: ""\f105""; }  .var-id { word-break: break-word!important; overflow-wrap: break-word!important; }"
+34,Data files
+35,bh.sav
+36,ch.sav
+37,fs.sav
+38,hh.sav
+39,hl.sav
+40,mm.sav
+41,mn.sav
+42,tn.sav
+43,weightFile.sav
+44,wm.sav
+45,Data file: mn.sav
+46,Men (15-49 years of age)
+47,"Cases:	4677"
+48,"Variables:	166"
+49,Variables
+50,HH1
+51,Cluster number
+52,HH2
+53,Household number
+54,LN
+55,Line number
+56,MWM1
+57,Cluster number
+58,MWM2
+59,Household number
+60,MWM3
+61,Man's line number
+62,MWMINT
+63,Interviewer number
+64,MWM4
+65,Supervisor number
+66,MWM5
+67,Interviewer number
+68,MWM6D
+69,Day of interview
+70,MWM6M
+71,Month of interview
+72,MWM6Y
+73,Year of interview
+74,MWM8
+75,Respondent to another questionnaire
+76,MWM9
+77,Consent
+78,MWM17
+79,Result of man's interview
+80,MWM7H
+81,Start of interview - Hour
+82,MWM7M
+83,Start of interview - Minutes
+84,MWM10H
+85,End of interview - Hour
+86,MWM10M
+87,End of interview - Minutes
+88,MWM11
+89,Interview completed in private
+90,MWM12
+91,Language of the Questionnaire
+92,MWM13
+93,Language of the Interview
+94,MWM14
+95,Native language of the Respondent
+96,MWM15
+97,Translator used
+98,MWMHINT
+99,Household interviewer
+100,MWMFIN
+101,Finish
+102,MWB3M
+103,Month of birth of man
+104,MWB3Y
+105,Year of birth of man
+106,MWB4
+107,Age of man
+108,MWB5
+109,Ever attended school
+110,MWB6A
+111,Highest level of school attended
+112,MWB6B
+113,Highest grade attended at that level
+114,MWB7
+115,Ever completed that grade/year
+116,MWB9
+117,Attended school during current school year
+118,MWB10A
+119,Level of education attended current school year
+120,MWB10B
+121,Grade attended at that level during current school year
+122,MWB11
+123,Attended school previous school year
+124,MWB12A
+125,Level of education attended previous school year
+126,MWB12B
+127,Grade attended at that level during previous school year
+128,MWB14
+129,Can read part of the sentence
+130,MWB15
+131,Duration of living in current place
+132,MWB16
+133,Place of living prior to moving to current place
+134,MWB17
+135,Region prior to moving to current place
+136,MWB18
+137,Covered by health insurance
+138,MWB19A
+139,Type of health insurance: Mutual health organization / Community-based health insurance
+140,MWB19B
+141,Type of health insurance: Health insurance through employer
+142,MWB19C
+143,Type of health insurance: Social security
+144,MWB19D
+145,Type of health insurance: Other privately purchased commercial health insurance
+146,MWB19X
+147,Type of health insurance: Other
+148,MWB19NR
+149,Type of health insurance: No response
+150,MMT1
+151,Frequency of reading newspaper or magazine
+152,MMT2
+153,Frequency of listening to the radio
+154,MMT3
+155,Frequency of watching TV
+156,MMT4
+157,Ever used a computer or a tablet
+158,MMT5
+159,Computer / tablet usage in the last 3 months
+160,MMT6A
+161,During the last 3 months: Copy or move a file or folder
+162,MMT6B
+163,During the last 3 months: Use a copy / paste in document
+164,MMT6C
+165,During the last 3 months: Send e-mail with attached file
+166,MMT6D
+167,During the last 3 months: Use a basic arithmetic formula in a spreadsheet
+168,MMT6E
+169,During the last 3 months: Connect and install a new device
+170,MMT6F
+171,During the last 3 months: Install and configure software
+172,MMT6G
+173,During the last 3 months: Create an electronic presentation
+174,MMT6H
+175,During the last 3 months: Transfer a file
+176,MMT6I
+177,During the last 3 months: Write a computer program
+178,MMT9
+179,Ever used internet
+180,MMT10
+181,Internet usage in the last 3 months
+182,MMT11
+183,Own a mobile phone
+184,MMT12
+185,Mobile phone usage in the last 3 months
+186,MVT1
+187,"Someone taken or tried taking something, by using force or threatening to use force"
+188,MVT2
+189,Victimisation happened during the last 12 months
+190,MVT3
+191,Number of times victimisation happened in the last year
+192,MVT5
+193,"The last time that this happened, was anything stolen"
+194,MVT6
+195,Person(s) had a weapon
+196,MVT7A
+197,"Offender(s) had a knife, a gun or something else used as a weapon: A knife"
+198,MVT7B
+199,"Offender(s) had a knife, a gun or something else used as a weapon: A gun"
+200,MVT7X
+201,"Offender(s) had a knife, a gun or something else used as a weapon: Other weapon"
+202,MVT7NR
+203,"Offender(s) had a knife, a gun or something else used as a weapon: No response"
+204,MVT8
+205,Incident reported to the police
+206,MVT9
+207,Physically attacked
+208,MVT10
+209,Attack happened during the last 12 months
+210,MVT11
+211,Number of times attack happened in the last year
+212,MVT12
+213,Place attack happened the last time
+214,MVT13
+215,Number of people involved in committing the offence
+216,MVT14
+217,At least one of the offender(s) recognized at the time of the incident
+218,MVT17
+219,Person(s) had a weapon
+220,MVT18A
+221,"Offender(s) had a knife, a gun or something else used as a weapon: A knife"
+222,MVT18B
+223,"Offender(s) had a knife, a gun or something else used as a weapon: A gun"
+224,MVT18X
+225,"Offender(s) had a knife, a gun or something else used as a weapon: Other weapon"
+226,MVT18NR
+227,"Offender(s) had a knife, a gun or something else used as a weapon: No response"
+228,MVT19
+229,Incident reported to the police
+230,MVT20
+231,Feeling safe walking alone in neighbourhood after dark
+232,MVT21
+233,Feeling safe at home alone after dark
+234,MVT22A
+235,"In the past 12 months, felt discriminated: Ethnic or immigration origin"
+236,MVT22B
+237,"In the past 12 months, felt discriminated: Gender"
+238,MVT22C
+239,"In the past 12 months, felt discriminated: Sexual orientation"
+240,MVT22D
+241,"In the past 12 months, felt discriminated: Age"
+242,MVT22E
+243,"In the past 12 months, felt discriminated: Religion or belief"
+244,MVT22F
+245,"In the past 12 months, felt discriminated: Disability"
+246,MVT22G
+247,"In the past 12 months, felt discriminated: Marital status"
+248,MVT22I
+249,"In the past 12 months, felt discriminated: Political Affiliation"
+250,MVT22J
+251,"In the past 12 months, felt discriminated: Born out of wedlock"
+252,MVT22X
+253,"In the past 12 months, felt discriminated: any other reason"
+254,MMA1
+255,Currently married or living with a woman
+256,MMA3
+257,Other wifes or live-in partners
+258,MMA4
+259,Number of wifes or live-in partners
+260,MMA5
+261,Ever married or lived with a woman
+262,MMA6
+263,Marital status
+264,MMA7
+265,Married or lived with a woman once or more than once
+266,MMA8M
+267,Month of first union
+268,MMA8Y
+269,Year of first union
+270,MMA11
+271,Age at first union
+272,MAF2
+273,Use glasses or contact lenses
+274,MAF3
+275,Use hearing aid
+276,MAF6
+277,"Difficulty seeing, even if wearing glasses or contact lenses"
+278,MAF8
+279,"Difficulty hearing, even if using a hearing aid"
+280,MAF9
+281,Difficulty walking or climbing steps
+282,MAF10
+283,Difficulty remembering or concentrating
+284,MAF11
+285,"Difficulty with self-care, such as washing all over or dressing"
+286,MAF12
+287,Difficulty communicating
+288,MSB1
+289,Age at first sexual intercourse
+290,MSB2U
+291,Time since last sexual intercourse - unit
+292,MSB2N
+293,Time since last sexual intercourse - number
+294,MHA1
+295,Ever heard of HIV or AIDS
+296,MHA24
+297,Ever been tested for HIV
+298,MHA25
+299,Most recent time of testing for HIV
+300,MHA26
+301,Received results of HIV test
+302,MHA27
+303,Place to get tested
+304,MHA28
+305,Heard of test kits
+306,MHA29
+307,Ever tested self
+308,MHA30
+309,Buy fresh vegetebles from shopkeeper
+310,MHA31
+311,Children with HIV allowed to attend school
+312,MHA32
+313,Hesitate to take HIV test
+314,MHA33
+315,People talk badly about peoplewith HIV
+316,MHA34
+317,Lose respect of other people
+318,MHA35
+319,Ashamed if someone in family has HIV
+320,MHA36
+321,Fear of getting HIV
+322,MLS1
+323,Estimation of overall happiness
+324,MLS2
+325,Satisfaction with ladder step
+326,MLS3
+327,Life satisfaction in comparison with last year
+328,MLS4
+329,Life satisfaction expectation one year from now
+330,HH3
+331,Interviewer number
+332,HH4
+333,Supervisor number
+334,HH6
+335,Area
+336,HH7
+337,Province
+338,MWDOI
+339,Date of interview man (CMC)
+340,MWAGE
+341,Age
+342,MWDOB
+343,Date of birth of man (CMC)
+344,MWDOM
+345,Date of marriage of man (CMC)
+346,MWAGEM
+347,Age at first marriage/union of man
+348,MMSTATUS
+349,Marital/Union status of man
+350,mwelevel
+351,Education
+352,minsurance
+353,Health insurance
+354,mdisability
+355,Functional difficulties (age 18-49 years)
+356,religion
+357,Religion of household head
+358,mnweight
+359,Men's sample weight
+360,wscore
+361,Combined wealth score
+362,windex5
+363,Wealth index quintile
+364,windex10
+365,Percentile Group of com1
+366,wscoreu
+367,Urban wealth score
+368,windex5u
+369,Urban wealth index quintile
+370,windex10u
+371,Percentile Group of urb1
+372,wscorer
+373,Rural wealth score
+374,windex5r
+375,Rural wealth index quintile
+376,windex10r
+377,Percentile Group of rur1
+378,psu
+379,Primary sampling unit
+380,stratum
+381,Stratum for sampling errors calculation
+382,Total: 166
+383,"$(document).ready(function () {  //show/hide variable info $(document.body).on(""click"","".data-dictionary .var-row"", function(){ var variable=$(this).find("".var-id""); if(variable){ get_variable(variable); } return false; });  });  function get_variable(var_obj) { var i18n={ 'js_loading':""Loading, please wait..."", };  //panel id var pnl=""#pnl-""+var_obj.attr(""id""); var pnl_body=$(pnl).find("".panel-td"");  //collapse if ($(var_obj).closest("".var-row"").is("".pnl-active"")){ $(var_obj).closest("".var-row"").toggleClass(""pnl-active""); $(pnl).hide(); return; }  //hide any open panels $('.data-dictionary .var-info-panel').hide();  //unset any active panels $("".data-dictionary .var-row"").removeClass(""pnl-active"");  //error handler variable_error_handler(pnl_body);  $(pnl).show(); $(var_obj).closest("".var-row"").toggleClass(""pnl-active""); $(pnl_body).html('<i class=""fa fa-spinner fa-pulse fa-2x fa-fw""></i> '+ i18n.js_loading); $(pnl_body).load(var_obj.attr(""href"")+'&ajax=true', function(){ var fooOffset = jQuery('.pnl-active').offset(), destination = fooOffset.top; $('html,body').animate({scrollTop: destination-50}, 500); }) }   //show/hide resource function toggle_resource(element_id){ $(""#""+element_id).toggle(); }  function variable_error_handler(pnl) { $.ajaxSetup({ error:function(XHR,e) { $(pnl).html('<div class=""error"">'+XHR.responseText+'</div>'); } }); }"
+384,Back to Catalog
+385,"function toggle_resource(element_id){ $(""#""+element_id).parent("".resource"").toggleClass(""active""); $(""#""+element_id).toggle(); }  $(document).ready(function () {  bind_behaviours();  $("".show-datafiles"").click(function(){ $("".data-files .hidden"").removeClass(""hidden""); $("".show-datafiles"").hide(); return false; });  //setup bootstrap scrollspy $(""body"").attr('data-spy', 'scroll'); $(""body"").attr('data-target', '#dataset-metadata-sidebar'); $(""body"").attr('data-offset', '0'); $(""body"").scrollspy('refresh');  });   function bind_behaviours() { //show variable info by id $("".resource-info"").unbind('click'); $("".resource-info"").click(function(){ if($(this).attr(""id"")!=''){ toggle_resource('info_'+$(this).attr(""id"")); } return false; });  }"
+386,Help / Feedback
+387,"IBRD IDA IFC MIGA ICSID"
+388,"©  var time = new Date(); var year = time.getYear(); if (year < 2000) year = year + 1900 + "", ""; document.write(year); // End --> The World Bank Group, All Rights Reserved."
+389,".consent-text, .consent-text p, .consent-text button, .consent-text a { color:white; }  .consent-text a:link{ text-decoration:underline; }  .consent-text button, .consent-text button:hover { color:white; position:absolute; top:10px; right:10px; }  .consent-popup{ display:none; padding:25px 10px; }"
+390,"This site uses cookies to optimize functionality and give you the best possible experience. If you continue to navigate this website beyond this page, cookies will be placed on your browser. To learn more about cookies, click here."
+391,×
+392,"function create_cookie(name,value,days) { if (days) { var date = new Date(); date.setTime(date.getTime()+(days*24*60*60*1000)); var expires = ""; expires=""+date.toGMTString(); } else var expires = """"; document.cookie = name+""=""+value+expires+""; path=/""; }  function read_cookie(name) { var nameEQ = name + ""=""; var ca = document.cookie.split(';'); for(var i=0;i < ca.length;i++) { var c = ca[i]; while (c.charAt(0)==' ') c = c.substring(1,c.length); if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length); } return null; }  function erase_cookie(name) { create_cookie(name,"""",-1); }  $(document).ready(function() { var consent=read_cookie(""ml_consent"");  if(consent==null || consent==''){ $("".consent-popup"").show(); } else{ $("".consent-popup"").hide(); } });   $(document.body).on(""click"","".consent-close"", function(){  create_cookie('ml_consent',1,0); $("".consent-popup"").hide(); }); var s_repo=""CENTRAL""; s_repo=""MICS"";  var wbgData = wbgData || {}; wbgData.page={ pageInfo: { channel: ""DEC Microdata Catalog EXT"", pageName: 'microdata-ext:'+document.title, //(required) - unique page name pageCategory: """", //home, errorPage, search results pageUid: 'microdata-ext:'+document.title, pageFirstPub: """", pageLastMod: """", author: """", topicTag: """", subtopicTag: """", contentType: """", channel: 'DEC Microdata Catalog EXT',//required webpackage: s_repo //repository }, sectionInfo: { siteSection: s_repo, subsectionP2: $(""#dataset-metadata-info"").attr(""data-idno""), subsectionP3: $(""#dataset-country"").text(), subsectionP4: $(""#dataset-year"").text(), subsectionP5: $(""#dataset-metadata-info"").attr(""data-idno""), } } wbgData.site = { pageLoad: ""N"", siteInfo: { siteLanguage: ""en"", siteCountry: """", siteEnv: ""PROD"", siteType: ""microdata"", siteRegion: """", userIpaddressType: """", }, techInfo: { cmsType: ""NADA"", bussVPUnit: ""dec"", bussUnit: ""decsu"", bussUserGroup: ""external"", bussAgency: ""ibrd"", } }  $(document).ready(function(){ _satellite.track(""dynamicdata""); _satellite.pageBottom(); });  $(document).ready(function()  {  //make all download links open in new  $("".download"").attr('target', '_blank');  //custom links $("".download"").mousedown(function(e) { ss=s_gi(s_account); ss.pageName='download:'+$(this).attr(""title""); ss.pageURL=$(this).attr(""href""); ss.events=""download""; ss.prop2=$(""#dataset-metadata-info"").attr(""data-repositoryid"");//repositoryid ss.prop3=$(""#dataset-metadata-info"").attr(""data-id"");//dataset-id ss.prop4=$(""#dataset-metadata-info"").attr(""data-idno"");//dataset-idno ss.prop5=$(""#dataset-country"").text();//dataset-country ss.prop6=$(""#dataset-year"").text();//dataset-year ss.prop12=$(this).attr(""data-extension"");//file-extension ss.prop22=$(this).attr(""data-filename"");//file name ss.prop9=$(this).attr(""data-dctype"");//file type ss.prop33=$(this).attr(""href"");//download link ss.prop20='download'; try{ ss.t(); } catch(err){ console.log(err); }  });  $(document).ajaxSend(function(event, request, settings) {   var ss_prop1='search'; //catalog search if (settings.url.indexOf(""catalog/search"") != -1) { var pos=settings.url.indexOf(""?""); if (pos != -1) { ss_prop1=s_repo.concat(""> Search "" + settings.url.substring(pos) ); } }  else { ss_prop1=settings.url; }   ss=s_gi(s_account); ss.pageName=ss_prop1; ss.pageURL=ss_prop1; ss.events=""search""; try{ ss.t(); } catch(err){ console.log(err); } });  });"
